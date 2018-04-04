@@ -1,11 +1,11 @@
 #header-jumbo {
 	padding: 12rem 3rem 4rem 3rem;
 	margin: 0;
-	height: 720px;
+	max-height: 768px;
 	background: url("kevin-lanceplaine-243768-unsplash.jpg") no-repeat fixed top;
 	background-size: 100%;
 	color: #a3b8cc;
-	border-radius: 0.3rem 0.3rem 0 0;
+	border-radius: 0;
 }
 
 #introducer-longtext {
@@ -13,4 +13,8 @@
 	background-size: 100%;
 	padding: 4rem 3rem 4rem 3rem;
 	height: 1440px;
+}
+
+p {
+	font-weight: 500;
 }
